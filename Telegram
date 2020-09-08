@@ -1,0 +1,28 @@
+{"ok":true,"result":[
+{
+  "update_id":323912898,
+  "message":{
+    "message_id":378,
+    "from":{"id":1094032233,"is_bot":false,"first_name":"NGUYEN","last_name":"NAM"},
+    "chat":{"id":-445558252,"title":"Test","type":"group","all_members_are_administrators":true},
+    "date":1599465856,"text":"/start",
+    "entities":[{"offset":0,"length":6,"type":"bot_command"}]}},
+{
+  "update_id":323912899,
+  "message":{
+    "message_id":379,
+    "from":{"id":1094032233,"is_bot":false,"first_name":"NGUYEN","last_name":"NAM"},
+    "chat":{"id":-445558252,"title":"Test","type":"group","all_members_are_administrators":true},
+    "date":1599465865,
+    "text":"/start",
+    "entities":[{"offset":0,"length":6,"type":"bot_command"}]}},
+{
+  "update_id":323912900,
+  "message":{
+    "message_id":380,
+    "from":{"id":1094032233,"is_bot":false,"first_name":"NGUYEN","last_name":"NAM"},
+    "chat":{"id":-445558252,"title":"Test","type":"group","all_members_are_administrators":true},
+    "date":1599470754,
+    "text":"/stop",
+    "entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+]}
